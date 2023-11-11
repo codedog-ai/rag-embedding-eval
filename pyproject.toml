@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "embedding-benchmark"
+version = "0.1.0"
+description = ""
+authors = ["arcadia822 <arcadia822@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "~3.10"
+langchain = "^0.0.325"
+openai = "^0.28.1"
+streamlit = "^1.28.0"
+qdrant-client = "^1.6.4"
+tiktoken = "^0.5.1"
+dashscope = "^1.13.1"
+
+
+[[tool.poetry.source]]
+name = "mirrors"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+priority = "default"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

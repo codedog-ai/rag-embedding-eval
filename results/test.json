@@ -1,0 +1,434 @@
+[
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8528130317953835,
+        "max_score": 0.8528130317953835
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8356771919790464,
+        "max_score": 0.8759925963312278
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8537896199940291,
+        "max_score": 0.8537896199940291
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8373310817730644,
+        "max_score": 0.8373310817730644
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7943883660274745,
+        "max_score": 0.8142618639464048
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7982161854638757,
+        "max_score": 0.7982161854638757
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7778167117034991,
+        "max_score": 0.7778167117034991
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7717634002643432,
+        "max_score": 0.7815264756240483
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7795803474197684,
+        "max_score": 0.7795803474197684
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7897076066865172,
+        "max_score": 0.7897076066865172
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7518771514530296,
+        "max_score": 0.7715214504885095
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7318603325380756,
+        "max_score": 0.7318603325380756
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8195999817379086,
+        "max_score": 0.8633291758885109
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7982659707039663,
+        "max_score": 0.8945492834089962
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8181461350714838,
+        "max_score": 0.8732311029181463
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8250368379329459,
+        "max_score": 0.8559761618170608
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7797914133922573,
+        "max_score": 0.8487752213659994
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7527496922059259,
+        "max_score": 0.8025624269994593
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7770792039229557,
+        "max_score": 0.7975580690850481
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7706655094372367,
+        "max_score": 0.8188299473218268
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7780559535210662,
+        "max_score": 0.7953482971618828
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7734481312153244,
+        "max_score": 0.8119215372218139
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7489182718896285,
+        "max_score": 0.7923395440017807
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6971280115770938,
+        "max_score": 0.745028574817826
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7880009093471023,
+        "max_score": 0.7880009093471023
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7663218022574352,
+        "max_score": 0.8059577673226187
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7863016257069164,
+        "max_score": 0.7863016257069164
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7861836768128606,
+        "max_score": 0.7861836768128606
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7325362407653787,
+        "max_score": 0.7549260582863749
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8607488699424473,
+        "max_score": 0.8607488699424473
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7196109527748138,
+        "max_score": 0.7196109527748138
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7141092416407593,
+        "max_score": 0.724888095970878
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7304148941641972,
+        "max_score": 0.7304148941641972
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7460364537591491,
+        "max_score": 0.7460364537591491
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7026170565683016,
+        "max_score": 0.7129916307538191
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7721150616863831,
+        "max_score": 0.7721150616863831
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6881411113627331,
+        "max_score": 0.6975155462477094
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6592198012940444,
+        "max_score": 0.6864489981360931
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.663739692189669,
+        "max_score": 0.6803965729574424
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6703056165382546,
+        "max_score": 0.6873493975026906
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.675651130922422,
+        "max_score": 0.6914258774952463
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6982383590582187,
+        "max_score": 0.7149714541183811
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7027275114000708,
+        "max_score": 0.720585679774031
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6684890189533282,
+        "max_score": 0.6994930087626231
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6652774837442873,
+        "max_score": 0.6884784621704527
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6802192772143673,
+        "max_score": 0.7171452607168225
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6957200950256428,
+        "max_score": 0.7202401804053922
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6850837984461879,
+        "max_score": 0.7242241057300753
+    }
+]

@@ -1,0 +1,3890 @@
+[
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8528130317953835,
+        "max_score": 0.8528130317953835
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8356873060077152,
+        "max_score": 0.8759925963312278
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8535202652326048,
+        "max_score": 0.8535202652326048
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8373310817730644,
+        "max_score": 0.8373310817730644
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7944899465228968,
+        "max_score": 0.8141244919398063
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7982331902671528,
+        "max_score": 0.7982331902671528
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7778167117034991,
+        "max_score": 0.7778167117034991
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7724653392532261,
+        "max_score": 0.7816019856547818
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7794760149515123,
+        "max_score": 0.7794760149515123
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7897076066865172,
+        "max_score": 0.7897076066865172
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7515453784546813,
+        "max_score": 0.771542461831371
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7317395524159483,
+        "max_score": 0.7317395524159483
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8195999817379086,
+        "max_score": 0.8632601677807993
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7982925725889002,
+        "max_score": 0.8944655532079979
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8171330683978486,
+        "max_score": 0.8730790416402865
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.825099057371756,
+        "max_score": 0.8558683264855818
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7799254724611718,
+        "max_score": 0.8485371592317785
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.752783206906424,
+        "max_score": 0.8024195452622651
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7770476939656425,
+        "max_score": 0.7977385894395362
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7711239838911085,
+        "max_score": 0.8190822306871263
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7779375754272309,
+        "max_score": 0.7952210755077216
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7733945561268014,
+        "max_score": 0.8119215372218139
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7488691691131019,
+        "max_score": 0.7921355147281129
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6968059913149098,
+        "max_score": 0.7448298412331152
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7880009093471023,
+        "max_score": 0.7880009093471023
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7663612169138169,
+        "max_score": 0.8059577673226187
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7857917157483139,
+        "max_score": 0.7857917157483139
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7861836768128606,
+        "max_score": 0.7861836768128606
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7326687472916787,
+        "max_score": 0.7548306934071151
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8607354413394155,
+        "max_score": 0.8607354413394155
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7196109527748138,
+        "max_score": 0.7196109527748138
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7159103528788267,
+        "max_score": 0.724960265755224
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.730315267441222,
+        "max_score": 0.730315267441222
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7460364537591491,
+        "max_score": 0.7460364537591491
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7023101402468435,
+        "max_score": 0.7130683788924718
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7720236540697613,
+        "max_score": 0.7720236540697613
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6880769777674705,
+        "max_score": 0.6974695690038065
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6591277356870584,
+        "max_score": 0.6863828227301633
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6634400471954442,
+        "max_score": 0.6800972109679251
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.67024891523633,
+        "max_score": 0.6872612300009735
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6756753109931697,
+        "max_score": 0.6913954885997287
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6982201333533212,
+        "max_score": 0.7149200870126605
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7026644695923199,
+        "max_score": 0.7205381754077036
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6692424164425104,
+        "max_score": 0.6995739591738789
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.665280565168152,
+        "max_score": 0.6884625927866352
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6801487853010667,
+        "max_score": 0.7169989125398797
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.695957568789225,
+        "max_score": 0.7205559705307011
+    },
+    {
+        "topic": "物理知识: 牛顿第二定律",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6849589311443949,
+        "max_score": 0.7240438806205381
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8606336859366565,
+        "max_score": 0.8606336859366565
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8603914003446493,
+        "max_score": 0.8724743640928249
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.913721770960897,
+        "max_score": 0.913721770960897
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.9223807653279199,
+        "max_score": 0.9223807653279199
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8103647077114711,
+        "max_score": 0.8213455319235626
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.815368749751688,
+        "max_score": 0.815368749751688
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7953487705268265,
+        "max_score": 0.7953487705268265
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7743823105345308,
+        "max_score": 0.7862797091522726
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7913448769682447,
+        "max_score": 0.7913448769682447
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8299655936342274,
+        "max_score": 0.8299655936342274
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.768499526764445,
+        "max_score": 0.7710437735423029
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7966870363200466,
+        "max_score": 0.7966870363200466
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7821397919313288,
+        "max_score": 0.8627379388703296
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7783925361772577,
+        "max_score": 0.8741280204581897
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8163878965522587,
+        "max_score": 0.9149547157495129
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8572582684171368,
+        "max_score": 0.919108570520942
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8032736135522613,
+        "max_score": 0.8387932781075821
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7837274698894414,
+        "max_score": 0.8391737412429304
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7912166488533622,
+        "max_score": 0.8225861827585864
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7692404609830688,
+        "max_score": 0.8042132760289995
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7906855045957689,
+        "max_score": 0.8234576589947077
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8227517725688449,
+        "max_score": 0.8557665229033005
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7631090923145523,
+        "max_score": 0.8072808645964991
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7809024218935058,
+        "max_score": 0.8086129217399017
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8012737055801005,
+        "max_score": 0.8012737055801005
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7958789661836553,
+        "max_score": 0.8071972530090618
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8534015568518674,
+        "max_score": 0.8534015568518674
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8476592179680625,
+        "max_score": 0.8476592179680625
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7835204513401413,
+        "max_score": 0.7950779078434193
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8942762800875378,
+        "max_score": 0.8942762800875378
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7826812741013561,
+        "max_score": 0.7826812741013561
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7499533544459096,
+        "max_score": 0.7604475750356806
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7831225877842491,
+        "max_score": 0.7831225877842491
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7880335643000685,
+        "max_score": 0.7880335643000685
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7209546786913777,
+        "max_score": 0.7347945290974884
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8289476678807775,
+        "max_score": 0.8289476678807775
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6895969253818641,
+        "max_score": 0.7021012748365152
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6567233232835277,
+        "max_score": 0.6853486489703631
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.675003664815937,
+        "max_score": 0.6931224898438305
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6711847243907573,
+        "max_score": 0.6899427768933689
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.676566119429931,
+        "max_score": 0.6981036327867866
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6919031082830168,
+        "max_score": 0.7191099655972835
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7259220710406521,
+        "max_score": 0.7442336332707855
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.668892343927668,
+        "max_score": 0.6985283515801629
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7064766901884566,
+        "max_score": 0.7239068433272032
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.680927130864273,
+        "max_score": 0.6931675474119726
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6844889857490843,
+        "max_score": 0.7003359952191393
+    },
+    {
+        "topic": "历史事件: 高平陵事变",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6921165977774865,
+        "max_score": 0.7135724744129361
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.879074801525057,
+        "max_score": 0.879074801525057
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8782522306036523,
+        "max_score": 0.8896730763695905
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.9080043186859614,
+        "max_score": 0.9080043186859614
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.9338553841124968,
+        "max_score": 0.9338553841124968
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7953989984145732,
+        "max_score": 0.8927730770745583
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8671569875713356,
+        "max_score": 0.8671569875713356
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7121741459381644,
+        "max_score": 0.7121741459381644
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7033325592203217,
+        "max_score": 0.7277397597281551
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.726439708423683,
+        "max_score": 0.726439708423683
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7453106389489937,
+        "max_score": 0.7453106389489937
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7166418950871296,
+        "max_score": 0.7374476460390998
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6905650657349107,
+        "max_score": 0.6905650657349107
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8669920831492515,
+        "max_score": 0.8846242736968885
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8667850517678631,
+        "max_score": 0.8963133038897166
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8909630420661524,
+        "max_score": 0.9169491402681027
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8958441200369819,
+        "max_score": 0.9383711089337482
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.776689226407133,
+        "max_score": 0.8955999953043963
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8303876258275369,
+        "max_score": 0.8681985295958478
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7113395867538336,
+        "max_score": 0.7394313741943569
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.705981601576078,
+        "max_score": 0.7558314814317318
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.713445812277423,
+        "max_score": 0.7548138436806
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7177601299700663,
+        "max_score": 0.7618350349496247
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6999585969000692,
+        "max_score": 0.7545949800244105
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6666638373612845,
+        "max_score": 0.7029728913468793
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8070505944831166,
+        "max_score": 0.8070505944831166
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7984283532782875,
+        "max_score": 0.8099621346929688
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.839062801310902,
+        "max_score": 0.839062801310902
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8679599384628185,
+        "max_score": 0.8679599384628185
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7546958570491603,
+        "max_score": 0.8117871042941138
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.9266754485516232,
+        "max_score": 0.9266754485516232
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6677618813726527,
+        "max_score": 0.6677618813726527
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6514759698816894,
+        "max_score": 0.6797076446482714
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.685284642414103,
+        "max_score": 0.685284642414103
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6957765078865498,
+        "max_score": 0.6957765078865498
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6601479548899497,
+        "max_score": 0.6884953881721821
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7260146911625023,
+        "max_score": 0.7260146911625023
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6926900485550164,
+        "max_score": 0.7012205237727875
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6567648164062121,
+        "max_score": 0.6713652716117829
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6579727508398266,
+        "max_score": 0.6835217420380997
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6661051328810597,
+        "max_score": 0.6891296844615982
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6735917495519144,
+        "max_score": 0.697999818574436
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.674422622570794,
+        "max_score": 0.7026067731966579
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6581692675435209,
+        "max_score": 0.6604866772361944
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.647752601217048,
+        "max_score": 0.6603012066464592
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.667723751604102,
+        "max_score": 0.6841991089503652
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6841116972885186,
+        "max_score": 0.7052114567453163
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6738116487399759,
+        "max_score": 0.7103958467409969
+    },
+    {
+        "topic": "程序算法: 二分查找",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6936784092813384,
+        "max_score": 0.720169085283011
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8043238401079383,
+        "max_score": 0.8043238401079383
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8533618213735261,
+        "max_score": 0.8736518742826597
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.815457483636383,
+        "max_score": 0.815457483636383
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.840168155918058,
+        "max_score": 0.840168155918058
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8371715676845553,
+        "max_score": 0.850124880383309
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8840703206404574,
+        "max_score": 0.8840703206404574
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7801651275959084,
+        "max_score": 0.7801651275959084
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7637132226266313,
+        "max_score": 0.7664667049723726
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8103044913517017,
+        "max_score": 0.8103044913517017
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7830648333980251,
+        "max_score": 0.7830648333980251
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7265561460929926,
+        "max_score": 0.7486240622605403
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8163219863874139,
+        "max_score": 0.8163219863874139
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6903117564685602,
+        "max_score": 0.7921940820871579
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7095446671476677,
+        "max_score": 0.8624553030579661
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6966207662538052,
+        "max_score": 0.7990811631896
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7475057426707495,
+        "max_score": 0.8282209336417826
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7648425038647205,
+        "max_score": 0.8458769151105914
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7866178677620072,
+        "max_score": 0.8623544305324495
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.717968109448156,
+        "max_score": 0.7953006232570253
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6997532764761069,
+        "max_score": 0.8000150044810578
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7408453927211143,
+        "max_score": 0.8134971802631868
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.760787805212247,
+        "max_score": 0.8180871026245657
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7161659145945586,
+        "max_score": 0.7822015437820226
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7857754960327308,
+        "max_score": 0.835649323336032
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8313616022727485,
+        "max_score": 0.8313616022727485
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8776901615411723,
+        "max_score": 0.9021194948465348
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.843613061728576,
+        "max_score": 0.843613061728576
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8479234795396338,
+        "max_score": 0.8479234795396338
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8453814666056808,
+        "max_score": 0.8581796173274269
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8975496019527225,
+        "max_score": 0.8975496019527225
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7668869982142146,
+        "max_score": 0.7668869982142146
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7475962423403656,
+        "max_score": 0.7534918928771436
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7945441385826438,
+        "max_score": 0.7945441385826438
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7824769710194528,
+        "max_score": 0.7824769710194528
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7364854344594307,
+        "max_score": 0.741792394323317
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8158647874916612,
+        "max_score": 0.8158647874916612
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6979535380835508,
+        "max_score": 0.7076694462842614
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6830346704516492,
+        "max_score": 0.7146386242866158
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.671540252169281,
+        "max_score": 0.6783466669524705
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6869123348974225,
+        "max_score": 0.6893613828278277
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7003054910761412,
+        "max_score": 0.7160428643121185
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.692345494845014,
+        "max_score": 0.7061487126115575
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7083692885428607,
+        "max_score": 0.7087202776804863
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.681976333751376,
+        "max_score": 0.6917771839524662
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6892478944057181,
+        "max_score": 0.6956803534336259
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6769430152796475,
+        "max_score": 0.6915488396411896
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6740158343683716,
+        "max_score": 0.707080853007634
+    },
+    {
+        "topic": "企业财报: datadog",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7036415357534084,
+        "max_score": 0.720283732577066
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8299643221145147,
+        "max_score": 0.8299643221145147
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8351930162317539,
+        "max_score": 0.8403863014806982
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7913103594730294,
+        "max_score": 0.7913103594730294
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8900516691030225,
+        "max_score": 0.8900516691030225
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8336465728756534,
+        "max_score": 0.8404073626519257
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8377104805165191,
+        "max_score": 0.8377104805165191
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8238763902048417,
+        "max_score": 0.8238763902048417
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8097769334101143,
+        "max_score": 0.8212461105288817
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8193974686931327,
+        "max_score": 0.8193974686931327
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8355734737339661,
+        "max_score": 0.8355734737339661
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.771761426316707,
+        "max_score": 0.8132579167457591
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8150246834411112,
+        "max_score": 0.8150246834411112
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8300582606589865,
+        "max_score": 0.8300582606589865
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8353094244367224,
+        "max_score": 0.8404923935655678
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7914181748344568,
+        "max_score": 0.7914181748344568
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.890086985931783,
+        "max_score": 0.890086985931783
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8337397124564981,
+        "max_score": 0.8404866411282284
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.837797197057272,
+        "max_score": 0.837797197057272
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8238818077398755,
+        "max_score": 0.8238818077398755
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8098549756405858,
+        "max_score": 0.821318385439823
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8195120600453741,
+        "max_score": 0.8195120600453741
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8356507027498163,
+        "max_score": 0.8356507027498163
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7718394240481999,
+        "max_score": 0.8133048822041428
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8150621802826622,
+        "max_score": 0.8150621802826622
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.815849263726438,
+        "max_score": 0.815849263726438
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8245709672508424,
+        "max_score": 0.828173358174531
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.851331519060222,
+        "max_score": 0.851331519060222
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.9086512541017508,
+        "max_score": 0.9086512541017508
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7781987660116065,
+        "max_score": 0.8431144056755666
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.9427436130553991,
+        "max_score": 0.9427436130553991
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8242586088250803,
+        "max_score": 0.8242586088250803
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.789852938203988,
+        "max_score": 0.8097266470328444
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8325210293543349,
+        "max_score": 0.8325210293543349
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8218993044389483,
+        "max_score": 0.8218993044389483
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7140352970048657,
+        "max_score": 0.7911023010989183
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8101453721578175,
+        "max_score": 0.8101453721578175
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7075089942774814,
+        "max_score": 0.7203298541929419
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6865968607939741,
+        "max_score": 0.7078945063041605
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.707259805282544,
+        "max_score": 0.7185245570482982
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7050920000250992,
+        "max_score": 0.7143585383502452
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6873694789722125,
+        "max_score": 0.6907921100421661
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7176761561441803,
+        "max_score": 0.7306761764973628
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.703051331224807,
+        "max_score": 0.7105022036664402
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6769035100472479,
+        "max_score": 0.6856065485499182
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6841901948294422,
+        "max_score": 0.690852915847196
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7106099590561817,
+        "max_score": 0.7247439641174305
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6716940283064944,
+        "max_score": 0.7204213662288719
+    },
+    {
+        "topic": "商品评论: Ipad Pro",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7039982884564319,
+        "max_score": 0.7248525645898669
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8932202779755699,
+        "max_score": 0.8932202779755699
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8501095134687106,
+        "max_score": 0.9141496473753631
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.9346142829034684,
+        "max_score": 0.9346142829034684
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.9417505711041356,
+        "max_score": 0.9417505711041356
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.816010440150163,
+        "max_score": 0.8966326872623491
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8915435842886165,
+        "max_score": 0.8915435842886165
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7297809492433143,
+        "max_score": 0.7297809492433143
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7166513343122148,
+        "max_score": 0.719846794873613
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7697749888755253,
+        "max_score": 0.7697749888755253
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7902522419965714,
+        "max_score": 0.7902522419965714
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7860996962983182,
+        "max_score": 0.7929754665242837
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7355945880070168,
+        "max_score": 0.7355945880070168
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8930928878210421,
+        "max_score": 0.8930928878210421
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8500162843648666,
+        "max_score": 0.9140022028139207
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.9345127920927587,
+        "max_score": 0.9345127920927587
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.9417570933151816,
+        "max_score": 0.9417570933151816
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8159212763854745,
+        "max_score": 0.896765442523485
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8916204350330357,
+        "max_score": 0.8916204350330357
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7296079065868538,
+        "max_score": 0.7296079065868538
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7164560288527222,
+        "max_score": 0.7196724918208206
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7696078177893836,
+        "max_score": 0.7696078177893836
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7901084491488525,
+        "max_score": 0.7901084491488525
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7859359212949458,
+        "max_score": 0.7928244458258181
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7354357445952466,
+        "max_score": 0.7354357445952466
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8372016279024608,
+        "max_score": 0.8372016279024608
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8164599647199479,
+        "max_score": 0.8580301974946082
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8849669265278661,
+        "max_score": 0.8849669265278661
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.9128862371892861,
+        "max_score": 0.9128862371892861
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7791709245157117,
+        "max_score": 0.8591041933939678
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.9637560203509292,
+        "max_score": 0.9637560203509292
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6884881812835101,
+        "max_score": 0.6884881812835101
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6716611060963573,
+        "max_score": 0.6823529436435903
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7418396551604859,
+        "max_score": 0.7418396551604859
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7532186865145831,
+        "max_score": 0.7532186865145831
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7373312936519064,
+        "max_score": 0.7468720864132478
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7561380348152408,
+        "max_score": 0.7561380348152408
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7306799515141185,
+        "max_score": 0.7493711324202506
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7163120555842902,
+        "max_score": 0.7545332265558516
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7126037818304329,
+        "max_score": 0.7313686914714879
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7133293714424245,
+        "max_score": 0.7267248796259138
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7025310932688063,
+        "max_score": 0.7320371744979548
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7285850585964196,
+        "max_score": 0.7370502595666566
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7223785703985491,
+        "max_score": 0.7384864912762821
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7012350920934519,
+        "max_score": 0.726088753398593
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7065343567843809,
+        "max_score": 0.741859183121337
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7231088758806009,
+        "max_score": 0.7497433528263173
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.727580247058462,
+        "max_score": 0.7392362899867889
+    },
+    {
+        "topic": "法律文件: 个人信息保护法",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7314618669033346,
+        "max_score": 0.7559905396516235
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8892095556590873,
+        "max_score": 0.8892095556590873
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8580713200234634,
+        "max_score": 0.8583751578647257
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.9033086613579566,
+        "max_score": 0.9033086613579566
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.9097118643182568,
+        "max_score": 0.9097118643182568
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8520988345142538,
+        "max_score": 0.8647772501422565
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8381122671960358,
+        "max_score": 0.8381122671960358
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8436030242428189,
+        "max_score": 0.8436030242428189
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8618580797103058,
+        "max_score": 0.8682416567318204
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8549343051814584,
+        "max_score": 0.8549343051814584
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8677617087615007,
+        "max_score": 0.8677617087615007
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8405636651924991,
+        "max_score": 0.8600043084938803
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8664624534945399,
+        "max_score": 0.8664624534945399
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8892921192839423,
+        "max_score": 0.8892921192839423
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8581202038062485,
+        "max_score": 0.8583845887435677
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.9033668412421499,
+        "max_score": 0.9033668412421499
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.909694360178614,
+        "max_score": 0.909694360178614
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8519979648289198,
+        "max_score": 0.8647970359862343
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8381285162663803,
+        "max_score": 0.8381285162663803
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8434994546827453,
+        "max_score": 0.8434994546827453
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8616745956526808,
+        "max_score": 0.8681103649489614
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8546686716385515,
+        "max_score": 0.8546686716385515
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8678034794093302,
+        "max_score": 0.8678034794093302
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8404813038869248,
+        "max_score": 0.8599996771982777
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8665065636307003,
+        "max_score": 0.8665065636307003
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.814270645875841,
+        "max_score": 0.814270645875841
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.793735043716662,
+        "max_score": 0.796805558381253
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8316266268771766,
+        "max_score": 0.8316266268771766
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8467041507976715,
+        "max_score": 0.8467041507976715
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7971828278205242,
+        "max_score": 0.8042869413944908
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8891698260569384,
+        "max_score": 0.8891698260569384
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8138942978164742,
+        "max_score": 0.8138942978164742
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8309546841674428,
+        "max_score": 0.8341415412336409
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8149600845688395,
+        "max_score": 0.8149600845688395
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8378119985496792,
+        "max_score": 0.8378119985496792
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8004165766642792,
+        "max_score": 0.8157319487174126
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8368079947605168,
+        "max_score": 0.8368079947605168
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6784544702932654,
+        "max_score": 0.6923890428658527
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6654192276667387,
+        "max_score": 0.6776444815413144
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6736812173879065,
+        "max_score": 0.6851441907757738
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6782087523702323,
+        "max_score": 0.6828057533987422
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6789801970604615,
+        "max_score": 0.6961023550498571
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6953158293944076,
+        "max_score": 0.6989493055777997
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6996930849378178,
+        "max_score": 0.70081565431334
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6688606587843655,
+        "max_score": 0.6806596449665445
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6597875328473687,
+        "max_score": 0.6701269032600966
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6847247486592495,
+        "max_score": 0.6927406497095276
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6581809849572138,
+        "max_score": 0.6839122715017114
+    },
+    {
+        "topic": "本地新闻: 青岛西海岸队登录中超",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6859816997163728,
+        "max_score": 0.697709815324126
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8347903059825058,
+        "max_score": 0.8347903059825058
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8124171024865318,
+        "max_score": 0.8261947001575717
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8380856701180309,
+        "max_score": 0.8380856701180309
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.9072571522158247,
+        "max_score": 0.9072571522158247
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8142151653260408,
+        "max_score": 0.8406667646737954
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8484641445630583,
+        "max_score": 0.8484641445630583
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8160301999270579,
+        "max_score": 0.8160301999270579
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7937197301831824,
+        "max_score": 0.8230478845211848
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8297847732840853,
+        "max_score": 0.8297847732840853
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.88387478236491,
+        "max_score": 0.88387478236491
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.829504828079961,
+        "max_score": 0.853837355142095
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8123629829917822,
+        "max_score": 0.8123629829917822
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8349847196123272,
+        "max_score": 0.8349847196123272
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.812108945876898,
+        "max_score": 0.8262271785388479
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8379583399306697,
+        "max_score": 0.8379583399306697
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.9077564056807239,
+        "max_score": 0.9077564056807239
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8149552671781464,
+        "max_score": 0.8399002069036476
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8477349319855226,
+        "max_score": 0.8477349319855226
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8157196714614275,
+        "max_score": 0.8157196714614275
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7936991002787415,
+        "max_score": 0.8227354033538525
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.8293074420943289,
+        "max_score": 0.8293074420943289
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8835756058328461,
+        "max_score": 0.8835756058328461
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8288788253594729,
+        "max_score": 0.8534259810700608
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8117462358732463,
+        "max_score": 0.8117462358732463
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7706179768616394,
+        "max_score": 0.7706179768616394
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7395114479089927,
+        "max_score": 0.7601352281583834
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7767603616473615,
+        "max_score": 0.7767603616473615
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8393034191662422,
+        "max_score": 0.8393034191662422
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.752548307347385,
+        "max_score": 0.8013410546980474
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8820192958580608,
+        "max_score": 0.8820192958580608
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.752160742813321,
+        "max_score": 0.752160742813321
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7455580083788084,
+        "max_score": 0.7705011937862071
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7654788042707981,
+        "max_score": 0.7654788042707981
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8352156943851358,
+        "max_score": 0.8352156943851358
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8106945384154052,
+        "max_score": 0.8202391245487402
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8619368173991463,
+        "max_score": 0.8619368173991463
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6794611526254403,
+        "max_score": 0.6901787958275845
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6599860194059171,
+        "max_score": 0.6678474131488515
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6730147853222107,
+        "max_score": 0.687280762784588
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6672329663102252,
+        "max_score": 0.6821579781448928
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6828630559258889,
+        "max_score": 0.6973931531608838
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6931544681702119,
+        "max_score": 0.7014680951606863
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6651239214963326,
+        "max_score": 0.6892257436156131
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6710369420011038,
+        "max_score": 0.6853071174078166
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6632778068014757,
+        "max_score": 0.675951300478614
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6590100074350626,
+        "max_score": 0.6680313949470658
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6760721334419362,
+        "max_score": 0.68372162149144
+    },
+    {
+        "topic": "旅游指南: 北海道",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6798484382038822,
+        "max_score": 0.698083623886888
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.86430997724866,
+        "max_score": 0.86430997724866
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.838465079944106,
+        "max_score": 0.8578535794726048
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8106784635530713,
+        "max_score": 0.8106784635530713
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8946174696250929,
+        "max_score": 0.8946174696250929
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8495745662886809,
+        "max_score": 0.8495745662886809
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8282138304978706,
+        "max_score": 0.8282138304978706
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.778425390485274,
+        "max_score": 0.778425390485274
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7622082097752712,
+        "max_score": 0.7636381113770276
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7941736809148096,
+        "max_score": 0.7941736809148096
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8450113090265698,
+        "max_score": 0.8450113090265698
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7871383183042384,
+        "max_score": 0.835501997658439
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "direct",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8600469087923075,
+        "max_score": 0.8600469087923075
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8642761873410248,
+        "max_score": 0.8642761873410248
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8385219498935264,
+        "max_score": 0.8577656048386691
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.8106829305054548,
+        "max_score": 0.8106829305054548
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8947204578844935,
+        "max_score": 0.8947204578844935
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8495284460299822,
+        "max_score": 0.8495284460299822
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8281211386068544,
+        "max_score": 0.8281211386068544
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7784520217825659,
+        "max_score": 0.7784520217825659
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.762279398550544,
+        "max_score": 0.7637171770468041
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7941889047736154,
+        "max_score": 0.7941889047736154
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8449640811502146,
+        "max_score": 0.8449640811502146
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7870250055950632,
+        "max_score": 0.8355304332328506
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "split",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8600981627543024,
+        "max_score": 0.8600981627543024
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7741124977885345,
+        "max_score": 0.7741124977885345
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7612789039887325,
+        "max_score": 0.7720345541431846
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7798162519774812,
+        "max_score": 0.7798162519774812
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.8052567855638901,
+        "max_score": 0.8052567855638901
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.7649372596934912,
+        "max_score": 0.7649372596934912
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.830516858930006,
+        "max_score": 0.830516858930006
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7365037255859055,
+        "max_score": 0.7365037255859055
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7273801588183925,
+        "max_score": 0.7285495044408159
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.7613606377470219,
+        "max_score": 0.7613606377470219
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8057857072623679,
+        "max_score": 0.8057857072623679
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.7443758197771134,
+        "max_score": 0.7961071940382389
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "summary",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.8238462669676649,
+        "max_score": 0.8238462669676649
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6930158566768341,
+        "max_score": 0.6957660615136981
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.6617372200574876,
+        "max_score": 0.6926069916216377
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "positive",
+        "min_score": 0.7093099227839499,
+        "max_score": 0.7212044606086825
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6766106005568621,
+        "max_score": 0.6835084440260335
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6663192496124951,
+        "max_score": 0.6735455000568094
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "positive",
+        "min_score": 0.6996479304846083,
+        "max_score": 0.7020516355732603
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6750832441678604,
+        "max_score": 0.6924453063786643
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6619856768148704,
+        "max_score": 0.6843106863364149
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "question",
+        "label": "negative",
+        "min_score": 0.6806840521766142,
+        "max_score": 0.7078867706038187
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "direct",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6846059121156763,
+        "max_score": 0.6918425792421967
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "fusion",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6848158932955937,
+        "max_score": 0.6965634316168188
+    },
+    {
+        "topic": "武侠小说: 昆仑",
+        "doc_embedding_type": "predict_query",
+        "query_embedding_type": "predict_answer",
+        "query_type": "description",
+        "label": "negative",
+        "min_score": 0.6837414183340927,
+        "max_score": 0.6936166823009127
+    }
+]
